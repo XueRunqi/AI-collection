@@ -1,2 +1,2 @@
 # AI-collection
-This is my thinking palace of AI algorithms
+This is my memory palace of AI algorithms
